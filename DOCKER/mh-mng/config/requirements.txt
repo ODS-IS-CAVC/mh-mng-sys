@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+flask-marshmallow
+Flask-PyMongo
+flask-restx
+Flask-Session
+Flask-SQLAlchemy
+Flask-Migrate
+jsonschema
+PyMySQL
+redis
+supervisor
+uWSGI
+marshmallow-sqlalchemy
+cryptography
+python-dateutil

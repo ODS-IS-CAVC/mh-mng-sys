@@ -1,0 +1,15 @@
+/log/*.log {
+        size 1M
+        rotate 30
+        missingok
+        copytruncate
+        nocreate
+}
+
+/log/access.log {
+        size 1M
+        rotate 30
+        missingok
+        copytruncate
+        nocreate
+}
